@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/parthvyas7/barebones-textutils/static/css/main.073c9b0a.css",
-    "main.js": "/parthvyas7/barebones-textutils/static/js/main.c30845e3.js",
+    "main.js": "/parthvyas7/barebones-textutils/static/js/main.ecc1ddbb.js",
     "static/js/787.d47e1ddf.chunk.js": "/parthvyas7/barebones-textutils/static/js/787.d47e1ddf.chunk.js",
     "index.html": "/parthvyas7/barebones-textutils/index.html",
     "main.073c9b0a.css.map": "/parthvyas7/barebones-textutils/static/css/main.073c9b0a.css.map",
-    "main.c30845e3.js.map": "/parthvyas7/barebones-textutils/static/js/main.c30845e3.js.map",
+    "main.ecc1ddbb.js.map": "/parthvyas7/barebones-textutils/static/js/main.ecc1ddbb.js.map",
     "787.d47e1ddf.chunk.js.map": "/parthvyas7/barebones-textutils/static/js/787.d47e1ddf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c30845e3.js"
+    "static/js/main.ecc1ddbb.js"
   ]
 }
