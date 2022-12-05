@@ -33,6 +33,10 @@ npm start
 - Github: [@parthvyas7](https://github.com/parthvyas7)
 - LinkedIn: [@parthvyas7](https://linkedin.com/in/parthvyas7)
 
+## Credits
+
+This project has been developed while referencing from [this](https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) YT tutorial
+
 ## 📝 License
 
 This project is [UNLICENSE](https://unlicense.org/) licensed.
