@@ -8,8 +8,8 @@
 
 > Barebones-TextUtils is react app which has bare-minimum-features text utility.
 
-<img src="previews/Web.gif"/>
-<img src="previews/MobileWeb.gif"/>
+<img src="Web.gif"/>
+<img src="MobileWeb.gif"/>
 
 ### ✨ [Demo](https://parthvyas7.github.io/barebones-textutils/)
 
