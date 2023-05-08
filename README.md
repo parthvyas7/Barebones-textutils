@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Barebones-TextUtils is react app which has bare-minimum-features text utility.
+> Barebones Text Utils is a simple web-based application built with React that provides basic text manipulation functionalities. It includes features such as text length calculation, word count, and case conversion (uppercase and lowercase).
 
 <img src="Web.gif"/>
 <img src="MobileWeb.gif"/>
