@@ -13,17 +13,21 @@
 
 ### ✨ [Demo](https://parthvyas7.github.io/barebones-textutils/)
 
-## Install
+## Features
+- Text length calculation
+- Word count
+- Case conversion (uppercase and lowercase)
 
-```sh
-npm install
-```
+## Technologies Used
+- React.js
+- CSS
+- JavaScript
 
-## Usage
-
-```sh
-npm start
-```
+## How to Run
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Start the application: `npm start`
+4. Open `http://localhost:3000` to view it in the browser.
 
 ## Author
 
