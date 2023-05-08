@@ -8,8 +8,8 @@
 
 > Barebones Text Utils is a simple web-based application built with React that provides basic text manipulation functionalities. It includes features such as text length calculation, word count, and case conversion (uppercase and lowercase).
 
-<img src="Web.gif"/>
-<img src="MobileWeb.gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlkYWFjZDQ5NWQ5YjBhZmI4MWJmOThiMDk1YzA1NTE4N2VkOWQ2MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jr5Y4qRKebnRLbc5c8/giphy.gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGExNzM0NWIzZjhlMmRmZTczZjcxNjJlNGYxNzA2YjhiMDExZWMwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/TgDDXmoPhdoqjUMseg/giphy.gif"/>
 
 ### ✨ [Demo](https://parthvyas7.github.io/barebones-textutils/)
 
